@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Personal Profile Card</title>
+</head>
+<body>
+<!-- Profile Card Container -->
+<main>
+<!-- Header with Name -->
+<header>
+<h1>Vinay Kumar</h1> <!-- Name -->
+<p><i>Full Stack Java Developer </i></p> <!-- Subtitle -->
+</header>
+<hr>
+<!-- Profile Details Section -->
+<section>
+<article>
+<h2>About Me</h2>
+<p>I'm Web Development enthusiast with a Passionate of Learning and developing using Java.</p>
+</article>
+<article>
+<h2>Hobbies</h2>
+<ul>
+<li>Exploring new techinques through Programming</li>
+<li>Traveling to scenic places</li>
+</ul>
+</article>
+</section>
+<hr>
+<!-- Contact Section -->
+<aside>
+<h2>Contact</h2>
+<p>Instagram:<a href="https://www.instagram.com/_v_i_n_n_i___"
+target="blank">_v_i_n_n_i___</a></p>
+<a/side>
+</main>
+<!--Footer with Closing Statement-->
+<footer>
+<p>Thanks fof visiting my profile!</p>
+</footer>
+</body>
+</html>
